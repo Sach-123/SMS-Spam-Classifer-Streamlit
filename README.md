@@ -1,7 +1,7 @@
 # SMS-Spam-Classifier-Streamlit
 
 ## About 
-This project is a simple SMS Spam classifier to detect spam messages. The ML model is built using Python and Front-end Development and deployment is done using StreamLit
+This project is a simple SMS Spam classifier to detect spam messages. The ML model is built using Python and Front-end development and deployment is done using StreamLit
 
 ## Dataset
 You can check out the dataset used for training this ML model [here](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset).
